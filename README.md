@@ -6,6 +6,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-success?style=flat-square)
 ![Full-Stack](https://img.shields.io/badge/Full--Stack-Engineer-blue?style=flat-square)
+
 Enjoys turning ideas into real, usable products
 ---
 

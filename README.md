@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=Caitlin%20van%20Goeverden&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# Hi, I'm Caitlin
+# Hello, I'm Caitlin!
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Open+to+Work;Focused+on+building+scalable+web+applications)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-success?style=flat-square)
+![Full-Stack](https://img.shields.io/badge/Full--Stack-Engineer-blue?style=flat-square)
+Enjoys turning ideas into real, usable products
 ---
 
 ## About Me

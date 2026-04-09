@@ -3,9 +3,9 @@
 </p>
 
 # Hello, I'm Caitlin!
-Full-Stack Software Engineer | Open to Work | Enjoys turning ideas into real, meaningful products
----
+Full-Stack Software Engineer | Open to Work
 
+---
 
 ## About Me
 

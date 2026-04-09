@@ -9,14 +9,16 @@ Full-Stack Software Engineer | Open to Work
 
 ## About Me
 
-I’m a full-stack developer who loves building applications that actually *do something meaningful*, from clean, responsive frontends to scalable backend systems.
+I’m a full-stack developer who loves problem-solving and building solutions that actually *do something meaningful*, from clean, responsive frontends to scalable backend systems.
 I enjoy turning ideas into real, working products and constantly pushing myself to learn new technologies along the way!
 
 Right now, I’m especially interested in:
 
-* Building modern web apps
+* Building usable, scalable solutions using full-stack development
+* Working accross the development lifecycle
+* Turning ideas into meaningful, usable code
 * Creating user-friendly, real-world products
-* Growing my skills in cloud and scalable systems
+* Growing my technical and professional skills
 
 ---
 

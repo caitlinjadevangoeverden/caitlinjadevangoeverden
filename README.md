@@ -1,6 +1,10 @@
-# Hi, I'm Caitlin!
-Full-Stack Software Engineer | Open to Work | Looking to grow my technical expertise
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=180&section=header&text=Caitlin%20van%20Goeverden&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+# 👋 Hi, I'm Caitlin
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Open+to+Work;Looking+to+grow+my+technical+expertise)
 ---
 
 ## About Me

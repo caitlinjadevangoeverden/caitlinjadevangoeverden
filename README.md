@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Caitlin!
+Full-Stack Software Engineer | Open to Work | Looking to grow my technical expertise
 
-<!--
-**caitlinjadevangoeverden/caitlinjadevangoeverden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a full-stack developer who loves building applications that actually *do something meaningful*, from clean, responsive frontends to scalable backend systems.
+I enjoy turning ideas into real, working products and constantly pushing myself to learn new technologies along the way!
+
+Right now, I’m especially interested in:
+
+* Building modern web apps
+* Creating user-friendly, real-world products
+* Growing my skills in cloud and scalable systems
+
+---
+
+## Tech Stack
+
+**Languages:** Java, JavaScript, SQL, .NET, TypeScript
+**Frontend:** React, HTML, CSS
+**Backend:** Node.js, REST APIs
+**Databases:** MySQL, SQL Server, SQL, Database Design
+**Tools:** Git, GitHub, VS Code, VB.NET, Expo Go, React Native
+**Concepts:** Full-Stack Development, Debugging, Performance Optimization, Technical consulting, OOP 
+
+---
+
+## Some Projects
+
+Here are a few things I worked on in college and have been continuously improving:
+* **Caitlin's Thrift App** – A mock secondhand clothing marketplace where users can post, browse, and interact with second-hand items.
+* **Java AI Project** – A project exploring AI concepts and problem-solving for the purpose of playing the game Clue.
+* **Data Science Project (R)** – Data analysis and visualization using R
+
+---
+
+## Open to Opportunities
+
+I’m currently **open for hire for full-time Software Engineering roles**.
+If you’re looking for someone motivated, collaborative, and eager to grow, please feel free to reach out to me.
+
+---
+
+## Contact Information
+
+*  LinkedIn: *https://www.linkedin.com/in/caitlin-van-goeverden-854196204*
+*  Email: *caitlin.jadevangoeverden@gmail.com*
+
+---
+
+⭐️ *Fun fact: I am originally from South Africa*

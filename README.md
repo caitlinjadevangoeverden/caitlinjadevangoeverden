@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Caitlin
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Open+to+Work;Looking+to+grow+my+technical+expertise)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Open+to+Work;Focused+on+building+scalable+web+applications)
 ---
 
 ## About Me

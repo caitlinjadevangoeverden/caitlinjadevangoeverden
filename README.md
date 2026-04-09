@@ -3,12 +3,9 @@
 </p>
 
 # Hello, I'm Caitlin!
-
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Available-success?style=flat-square)
-![Full-Stack](https://img.shields.io/badge/Full--Stack-Engineer-blue?style=flat-square)
-
-Enjoys turning ideas into real, usable products
+Full-Stack Software Engineer | Open to Work | Enjoys turning ideas into real, meaningful products
 ---
+
 
 ## About Me
 

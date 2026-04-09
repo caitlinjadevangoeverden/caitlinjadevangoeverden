@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=180&section=header&text=Caitlin%20van%20Goeverden&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=180&section=header&text=Caitlin%20van%20Goeverden&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-# 👋 Hi, I'm Caitlin
+# Hi, I'm Caitlin
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=false&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Open+to+Work;Focused+on+building+scalable+web+applications)
 ---
@@ -22,12 +22,12 @@ Right now, I’m especially interested in:
 
 ## Tech Stack
 
-**Languages:** Java, JavaScript, SQL, .NET, TypeScript
-**Frontend:** React, HTML, CSS
-**Backend:** Node.js, REST APIs
-**Databases:** MySQL, SQL Server, SQL, Database Design
-**Tools:** Git, GitHub, VS Code, VB.NET, Expo Go, React Native
-**Concepts:** Full-Stack Development, Debugging, Performance Optimization, Technical consulting, OOP 
+* **Languages:** Java, JavaScript, SQL, .NET, TypeScript
+* **Frontend:** React, HTML, CSS
+* **Backend:** Node.js, REST APIs
+* **Databases:** MySQL, SQL Server, SQL, Database Design
+* **Tools:** Git, GitHub, VS Code, VB.NET, Expo Go, React Native
+* **Concepts:** Full-Stack Development, Debugging, Performance Optimization, Technical consulting, OOP 
 
 ---
 
